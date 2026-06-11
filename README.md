@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Hiba Bounabel
 
-<!--
-**HibaBounabel/HibaBounabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 Passionate about software development, artificial intelligence, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Explore my projects on GitHub:
+https://github.com/HibaBounabel
+
+📫 How to reach me:
+[hibabounabel@gmail.com](mailto:hibabounabel@gmail.com)
+
+### Connect with me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/imene-hiba-bounabel-bb5491202
+
+🐙 GitHub:
+https://github.com/HibaBounabel
+
+### Skills
+
+* Programming: Java, Kotlin, Python, JavaScript
+* Web Development: HTML, CSS, React, Spring Boot, Tailwind, TypeScript
+* Databases: MySQL, PostgreSQL
+* Tools: Git, GitHub, GitLab, Docker
+* Interests: Artificial Intelligence, Machine Learning, Software Engineering
+
+### Currently
+
+🌱 Learning new technologies in AI and software development.
+
+🚀 Looking for opportunities to contribute to innovative projects and grow as a software engineer.
