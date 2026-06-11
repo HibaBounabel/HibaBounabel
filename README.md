@@ -31,3 +31,6 @@ https://github.com/HibaBounabel
 🌱 Learning new technologies in AI and software development.
 
 🚀 Looking for opportunities to contribute to innovative projects and grow as a software engineer.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaBounabel&layout=compact&theme=tokyonight)
