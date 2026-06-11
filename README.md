@@ -33,4 +33,4 @@ https://github.com/HibaBounabel
 🚀 Looking for opportunities to contribute to innovative projects and grow as a software engineer.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaBounabel&layout=compact&theme=tokyonight)
+![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibaBounabel&show_icons=true&theme=tokyonight)
